@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "repo-a": "git@github.com:/cathrin-will/repo-a",
+    "repo-b": "git@github.com:/cathrin-will/repo-b"
+  }
+}
